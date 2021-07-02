@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Potter and the philosopher's stone",
+      "author": "J. K. R",
+      "category": "Fantasy",
+      "isbn": "9781408855652"
+    }
+  ]
+}
